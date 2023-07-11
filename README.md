@@ -9,7 +9,7 @@ If you like it, give me a [⭐star](https://github.com/login?return_to=%2FSangHa
 
 ## inspired
 - https://github.com/AChingYo/iptables-graph
-- https://stuffphilwrites.com/2014/09/iptables-processing-flowchart
+- ![https://stuffphilwrites.com/2014/09/iptables-processing-flowchart](./images/iptables-processing-flowchart.png)
 
 
 ## Maybe update...
