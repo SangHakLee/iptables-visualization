@@ -1,6 +1,6 @@
 # Iptables Visualization
 
-https://iptables.leesanghak.com
+https://iptables.yessir.dev
 
 **Just do it**
 
@@ -17,5 +17,4 @@ If you want to directly convert iptables-save locally to png or dot (Graphviz), 
 
 ## Maybe update...
 - [x] svg file to view in browser(zoom in, out) **Preview**
-1. save hisotry only local browser(never on server, ~~my disk is small~~)
-- [x] svg to png(I probably can't)
+- [x] svg to png
